@@ -1,4 +1,3 @@
 # hello-world
 My first repository on GitHub
-I love :coffee:, :pizza:, and :dancer:.
-I love :badminton:, :basketball:, and :football:.
+I love :coffee:, :pizza:, :dancer:, :badminton:, :basketball:, and :football:.
